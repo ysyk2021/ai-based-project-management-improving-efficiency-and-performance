@@ -3,7 +3,7 @@
 - [Introduction](README.md)
   - [The Need for AI-Based Project Management](chapter-1-1.md)
   - [Overview of Artificial Intelligence and Its Applications in Project Management](chapter-1-2.md)
-  - [Objectives and Structure of the Book](chapter-1-3.md)
+  - [Objectives of the Book](chapter-1-3.md)
 - [Understanding Project Management](chapter-2.md)
   - [Overview of Project Management](chapter-2-1.md)
   - [Traditional Approaches to Project Management](chapter-2-2.md)
