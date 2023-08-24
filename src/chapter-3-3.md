@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Project Management
-===========================================================================================================
 
 AI-powered tools are increasingly being integrated into project management processes to improve efficiency and performance. In this chapter, we will explore some case studies on the use of AI in project management.
 

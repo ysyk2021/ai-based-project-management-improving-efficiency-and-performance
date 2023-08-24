@@ -1,5 +1,3 @@
-Future Directions and Challenges
-=================================================================
 
 As the use of artificial intelligence (AI) in project management continues to grow, it is important to consider the ethical implications that arise with its implementation. In this chapter, we will explore future directions and challenges in AI-based project management from an ethical standpoint.
 

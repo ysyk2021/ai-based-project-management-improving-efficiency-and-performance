@@ -1,5 +1,3 @@
-Overview of AI-Based Project Management Techniques and Strategies
-=================================================================================================================================
 
 AI-based project management techniques and strategies can help businesses optimize their project management processes, improve efficiency, and achieve specific goals more effectively. In this chapter, we will explore an overview of AI-based project management techniques and strategies.
 

@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Project Management
-=====================================================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that involves the use of algorithms and machine learning techniques to automate tasks, make predictions, and optimize processes. In project management, AI-powered tools offer businesses the potential to improve efficiency, increase value delivery, and achieve specific goals more effectively. In this chapter, we will explore the types of artificial intelligence and their applications in project management.
 
@@ -47,5 +45,4 @@ As AI technologies continue to advance, new applications of AI in project manage
 * More sophisticated predictive analytics algorithms for risk assessment and mitigation
 
 In conclusion, artificial intelligence offers businesses the potential to improve efficiency, increase value delivery, and achieve specific goals more effectively in project management. By leveraging AI-powered tools and techniques such as machine learning, natural language processing, computer vision, and robotics, businesses can optimize their project management processes and gain a competitive edge.
-
 

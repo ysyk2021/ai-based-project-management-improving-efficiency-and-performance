@@ -1,5 +1,3 @@
-Overview of Project Management
-=========================================================================
 
 Project management is the process of planning, organizing, and controlling resources to achieve specific goals within a defined timeframe. Effective project management involves balancing competing demands such as time, cost, quality, and scope, while ensuring that projects are completed on time, within budget, and to the required quality standards.
 

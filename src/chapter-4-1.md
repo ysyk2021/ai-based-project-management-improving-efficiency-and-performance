@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Project Management
-=============================================================================================================================
 
 Data collection and analysis are essential components of project management, providing businesses with valuable insights into project progress, team performance, and other key metrics. In this chapter, we will explore the basics of data collection and analysis for project management.
 

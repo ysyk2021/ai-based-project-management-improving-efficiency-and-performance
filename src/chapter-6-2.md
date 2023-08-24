@@ -1,5 +1,3 @@
-Best Practices for Ensuring Ethical and Responsible AI in Project Management
-=============================================================================================================
 
 As artificial intelligence (AI) becomes increasingly integrated into project management processes, it is important to consider the ethical implications of these technologies. In this chapter, we will explore best practices for ensuring ethical and responsible AI in project management.
 

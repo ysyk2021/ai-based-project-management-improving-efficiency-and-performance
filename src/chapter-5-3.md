@@ -1,5 +1,3 @@
-Intelligent Automation and Decision Support
-===========================================================================================================
 
 AI-based project management techniques and strategies are transforming the way projects are managed. By leveraging advanced AI technologies, project managers can improve efficiency, increase productivity, and reduce costs. In this chapter, we will explore two key AI-based project management techniques: intelligent automation and decision support.
 

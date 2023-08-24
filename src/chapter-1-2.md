@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Project Management
-=====================================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that involves the use of algorithms and machine learning techniques to automate tasks, make predictions, and optimize processes. In project management, AI-powered tools offer businesses the potential to improve efficiency, increase value delivery, and achieve specific goals more effectively. In this chapter, we will explore an overview of artificial intelligence and its applications in project management.
 

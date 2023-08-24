@@ -1,5 +1,3 @@
-Traditional Approaches to Project Management
-=======================================================================================
 
 Project management is the process of planning, organizing, and controlling resources to achieve specific goals within a defined timeline. For decades, traditional approaches to project management have been used to manage projects of all sizes and types. In this chapter, we will explore traditional approaches to project management, including their key components and how they are used.
 

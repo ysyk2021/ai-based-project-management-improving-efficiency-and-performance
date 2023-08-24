@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Project Management
-==============================================================================================================
 
 Artificial intelligence (AI) has numerous applications in project management, including predictive analytics, decision support, and intelligent automation. In this chapter, we will explore the advantages and limitations of AI in project management.
 

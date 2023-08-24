@@ -1,5 +1,3 @@
-Artificial Intelligence in Project Management
-======================================================
 
 Artificial intelligence (AI) is increasingly being integrated into project management processes to improve efficiency and performance. In this chapter, we will explore the types of AI used in project management, their advantages and limitations, and case studies on their use.
 

@@ -1,5 +1,3 @@
-Agile and Lean Methodologies
-============================================================================================
 
 Agile and lean methodologies involve an iterative approach to project management, allowing teams to adjust project plans as needed based on feedback and changing circumstances. In this chapter, we will explore how AI-based project management techniques and strategies can be combined with agile and lean methodologies to improve efficiency and achieve specific goals more effectively.
 

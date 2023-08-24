@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Project Management
-===================================================================================================
 
 As artificial intelligence (AI) becomes increasingly integrated into project management processes, it is important to consider the ethical implications of these technologies. In this chapter, we will explore some of the ethical issues associated with the use of AI in project management.
 

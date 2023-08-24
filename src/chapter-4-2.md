@@ -1,5 +1,3 @@
-Project Planning and Scheduling
-=============================================================================================
 
 Effective project planning and scheduling are critical components of project management. In this chapter, we will explore how data collection and analysis can be used to optimize project planning and scheduling.
 
