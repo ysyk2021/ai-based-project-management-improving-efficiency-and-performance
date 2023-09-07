@@ -10,3 +10,7 @@ However, it is important to note that the implementation of AI-based project man
 The objective of this book is to provide readers with an understanding of the potential benefits and challenges associated with AI-based project management. By exploring the types of artificial intelligence and their applications in project management, as well as the ethical considerations and best practices for ensuring responsible AI use, we hope to provide readers with a comprehensive understanding of this important topic.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
