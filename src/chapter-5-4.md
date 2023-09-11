@@ -1,5 +1,4 @@
-Chapter: Agile and Lean Methodologies in AI-Based Project Management
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
